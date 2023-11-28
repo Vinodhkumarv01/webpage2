@@ -1,0 +1,55 @@
+.abc{
+    margin: 10px auto;
+    margin-left: 50px;
+}
+body{
+    background-color: purple;
+}
+
+/* .div1{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+} */
+img{
+    align-items: center ;
+}
+.bca{
+    position: absolute;
+    top: 425px;
+    left: 700px;
+    color: white;
+    background-color: black;
+
+}
+table{
+    border: 1px black solid;
+    align-content: center;
+    border-spacing: 0px;
+}
+th,td{
+    background-color: orange;
+    border: 1px black solid;
+    align-content: center;
+    padding-top: 10px;
+    padding-left: 90px;
+    padding-bottom: 10px;
+    padding-right: 90px;
+}
+
+.size{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.color{
+    background-color: yellow;
+}
+.color1{
+    background-color: aqua;
+}
+.color2{
+    background-color: lawngreen;
+}
+.color3{
+    background-color: salmon;
+}
